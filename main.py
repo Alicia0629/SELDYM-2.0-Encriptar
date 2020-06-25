@@ -7,7 +7,7 @@ for i in range(0,256):
     abecedario.append(chr(i))
 
 mensaje1=[]
-for i in input('mensaje1: '):
+for i in input('Inserte el mensaje que desea cifrar: '):
     mensaje1.append(abecedario.index(i))
 
 clave=[]
