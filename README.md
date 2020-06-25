@@ -5,7 +5,7 @@ Programa empleado para cifrar mensajes usando el sistema de encriptacion SELDYM 
 Python 3
 
 # Uso del sistema de encriptación
-Este sistema de encriptación se puede usar ejecutandolo en la terminal de su ordenador si usted tiene descargado python3. Además puede ejecutarlo en este link sin tener que realizar ninguna descarga https://repl.it/@AliciaG1/Sistema-de-Encriptacion-de-Longitud-Determinada-y-Matriz#README.txt
+Este sistema de encriptación se puede usar ejecutandolo en la terminal de su ordenador si usted tiene descargado python3. Además puede ejecutarlo en este link sin tener que realizar ninguna descarga https://repl.it/@AliciaG1/SELDYM-20-Encriptar#main.py
 
 # Licencia
 Creative Commons Attribution 4.0 International Public License
